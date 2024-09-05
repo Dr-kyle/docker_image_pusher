@@ -3,4 +3,5 @@ openjdk:8-jdk-alpine
 bellsoft/liberica-openjre-alpine:17.0.9-11
 bellsoft/liberica-openjre-alpine:8u392-9
 mariadb:11.3.2
+node:18.20.4
 
