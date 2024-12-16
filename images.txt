@@ -5,4 +5,8 @@ bellsoft/liberica-openjre-alpine:8u392-9
 mariadb:11.3.2
 node:18.20.4
 openjdk:17.0.2
+openjdk:17-jdk-slim
+nginx:1.27.3-alpine
+maven:3.9.9-eclipse-temurin-17-alpine
+node:20.18.0
 
