@@ -14,3 +14,5 @@ node:18.20.4-alpine
 node:20.18.0-alpine
 mysql:8.0.0
 dbeaver/cloudbeaver:25.1.0
+public.ecr.aws/zinclabs/zincsearch:0.4.10
+fluent/fluent-bit:4.0.5
