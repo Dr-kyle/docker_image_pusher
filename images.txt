@@ -1,1 +1,1 @@
-jenkins/jenkins:2.516.2-lts-jdk21
+astral/uv:python3.12-bookworm-slim
